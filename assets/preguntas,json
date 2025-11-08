@@ -1,5 +1,5 @@
-{
-  "preguntas": [
+
+"preguntas": [
     {
       "pregunta": "¿Cuál es la carrera que estudia Andrea?",
       "opciones": ["Medicina", "Derecho", "Ingeniería", "Arquitectura"],
@@ -26,4 +26,4 @@
       "respuesta": "Harry Potter"
     }
   ]
-}
+

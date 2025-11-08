@@ -17,7 +17,13 @@
       "aciertos": 2,
       "total": 10,
       "fecha": "2025-11-08T23:48:47.394Z"
+    },
+    {
+      "nombre": "a",
+      "aciertos": 3,
+      "total": 10,
+      "fecha": "2025-11-08T23:49:34.068Z"
     }
   ],
-  "sha": "c2f4f2cc4c71d6e9236dead6f610c50e2975cf76"
+  "sha": "b7268582febbef1db5ff49f0d83584ca55db041b"
 }

@@ -11,7 +11,13 @@
       "aciertos": 7,
       "total": 10,
       "fecha": "2025-11-08T23:47:38.897Z"
+    },
+    {
+      "nombre": "Franco",
+      "aciertos": 2,
+      "total": 10,
+      "fecha": "2025-11-08T23:48:47.394Z"
     }
   ],
-  "sha": "87735264e30ea83463f21a7e65093327817973f7"
+  "sha": "c2f4f2cc4c71d6e9236dead6f610c50e2975cf76"
 }

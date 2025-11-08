@@ -1,6 +1,11 @@
 {
   "jugadores": [
-    
+    {
+      "nombre": "Aaron",
+      "aciertos": 2,
+      "total": 10,
+      "fecha": "2025-11-08T23:47:38.897Z"
+    }
   ],
-  "sha": "344a4e0ac503b33d06fbd54b9444c4260a7d6040"
+  "sha": "87735264e30ea83463f21a7e65093327817973f7"
 }

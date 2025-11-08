@@ -1,16 +1,5 @@
 {
   "jugadores": [
-    {
-      "nombre": "Pepe",
-      "aciertos": 10,
-      "total": 10,
-      "fecha": "2025-11-08T23:44:16.187Z"
-    },
-    {
-      "nombre": "akda",
-      "aciertos": 2,
-      "total": 10,
-      "fecha": "2025-11-08T23:44:36.602Z"
-    }
+    
   ]
 }

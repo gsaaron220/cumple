@@ -1,23 +1,6 @@
 {
   "jugadores": [
-    {
-      "nombre": "Aaron",
-      "aciertos": 10,
-      "total": 10,
-      "fecha": "2025-11-08T23:45:34.396Z"
-    },
-    {
-      "nombre": "akda",
-      "aciertos": 3,
-      "total": 10,
-      "fecha": "2025-11-08T23:46:27.515Z"
-    },
-    {
-      "nombre": "akda",
-      "aciertos": 3,
-      "total": 10,
-      "fecha": "2025-11-08T23:47:00.387Z"
-    }
+    
   ],
   "sha": "344a4e0ac503b33d06fbd54b9444c4260a7d6040"
 }

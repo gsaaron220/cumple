@@ -1,0 +1,29 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es la carrera que estudia Andrea?",
+      "opciones": ["Medicina", "Derecho", "Ingeniería", "Arquitectura"],
+      "respuesta": "Medicina"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los hobbies favoritos de Andrea?",
+      "opciones": ["Leer libros", "Jugar fútbol", "Pintar cuadros", "Cantar"],
+      "respuesta": "Leer libros"
+    },
+    {
+      "pregunta": "¿En qué día celebramos oficialmente el cumpleaños de Andrea?",
+      "opciones": ["12 de noviembre", "21 de noviembre", "15 de noviembre", "18 de noviembre"],
+      "respuesta": "21 de noviembre"
+    },
+    {
+      "pregunta": "¿Qué símbolo de medicina le gusta a Andrea?",
+      "opciones": ["💊", "🩺", "⚕️", "🔬"],
+      "respuesta": "🩺"
+    },
+    {
+      "pregunta": "¿Cuál de estos libros le gusta más a Andrea?",
+      "opciones": ["Cien años de soledad", "Harry Potter", "El Quijote", "Los Pilares de la Tierra"],
+      "respuesta": "Harry Potter"
+    }
+  ]
+}

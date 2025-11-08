@@ -1,29 +1,54 @@
-
-"preguntas": [
+{
+  "preguntas": [
     {
-      "pregunta": "¿Cuál es la carrera que estudia Andrea?",
-      "opciones": ["Medicina", "Derecho", "Ingeniería", "Arquitectura"],
-      "respuesta": "Medicina"
+      "pregunta": "¿En qué año nació Andrea?",
+      "opciones": ["2005", "2006", "2007", "2008"],
+      "correcta": 2
     },
     {
-      "pregunta": "¿Cuál es uno de los hobbies favoritos de Andrea?",
-      "opciones": ["Leer libros", "Jugar fútbol", "Pintar cuadros", "Cantar"],
-      "respuesta": "Leer libros"
+      "pregunta": "¿Cuál es la pasión de Andrea?",
+      "opciones": ["Cocinar", "Medicina", "Pintar", "Deportes"],
+      "correcta": 1
     },
     {
-      "pregunta": "¿En qué día celebramos oficialmente el cumpleaños de Andrea?",
-      "opciones": ["12 de noviembre", "21 de noviembre", "15 de noviembre", "18 de noviembre"],
-      "respuesta": "21 de noviembre"
+      "pregunta": "¿Qué le encanta leer a Andrea?",
+      "opciones": ["Novelas románticas", "Libros de medicina", "Ciencia ficción", "Terror"],
+      "correcta": 1
     },
     {
-      "pregunta": "¿Qué símbolo de medicina le gusta a Andrea?",
-      "opciones": ["💊", "🩺", "⚕️", "🔬"],
-      "respuesta": "🩺"
+      "pregunta": "¿Cuál es el mes de cumpleaños de Andrea?",
+      "opciones": ["Octubre", "Noviembre", "Diciembre", "Septiembre"],
+      "correcta": 1
     },
     {
-      "pregunta": "¿Cuál de estos libros le gusta más a Andrea?",
-      "opciones": ["Cien años de soledad", "Harry Potter", "El Quijote", "Los Pilares de la Tierra"],
-      "respuesta": "Harry Potter"
+      "pregunta": "¿Dónde es la celebración del cumpleaños?",
+      "opciones": ["Restaurante La Riviera", "Casa de Andrea", "Hotel Moya", "Salón de eventos"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué emoji representa mejor a Andrea?",
+      "opciones": ["📚", "🩺", "🎉", "Todos los anteriores"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué día es la gran celebración?",
+      "opciones": ["12 de noviembre", "21 de noviembre", "15 de noviembre", "30 de noviembre"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es una cualidad de Andrea?",
+      "opciones": ["Estudiosa", "Divertida", "Cariñosa", "Todas las anteriores"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿En qué ciudad está el Hotel Moya?",
+      "opciones": ["Madrid", "Cáceres", "Navalmoral de la Mata", "Toledo"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa el número 2007 para Andrea?",
+      "opciones": ["Su año de nacimiento", "Su número favorito", "Un código secreto", "El año que empezó medicina"],
+      "correcta": 0
     }
   ]
-
+}

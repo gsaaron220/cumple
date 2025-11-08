@@ -1,6 +1,11 @@
 {
   "jugadores": [
-    
+    {
+      "nombre": "Pepe",
+      "aciertos": 2,
+      "total": 10,
+      "fecha": "2025-11-08T23:54:27.572Z"
+    }
   ],
-  "sha": "b7268582febbef1db5ff49f0d83584ca55db041b"
+  "sha": "fbb4d5c5795a62621c8129af35898c201c9983c4"
 }

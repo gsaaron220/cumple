@@ -12,18 +12,13 @@
     },
     {
       "pregunta": "¿Qué le encanta leer a Andrea?",
-      "opciones": ["Novelas románticas", "Libros de medicina", "Ciencia ficción", "Terror"],
-      "correcta": 1
+      "opciones": ["Novelas románticas", "Libros de medicina", "Fantasía", "Terror"],
+      "correcta": 2
     },
     {
       "pregunta": "¿Cuál es el mes de cumpleaños de Andrea?",
       "opciones": ["Octubre", "Noviembre", "Diciembre", "Septiembre"],
       "correcta": 1
-    },
-    {
-      "pregunta": "¿Dónde es la celebración del cumpleaños?",
-      "opciones": ["Restaurante La Riviera", "Casa de Andrea", "Hotel Moya", "Salón de eventos"],
-      "correcta": 2
     },
     {
       "pregunta": "¿Qué emoji representa mejor a Andrea?",
@@ -32,18 +27,13 @@
     },
     {
       "pregunta": "¿Qué día es la gran celebración?",
-      "opciones": ["12 de noviembre", "21 de noviembre", "15 de noviembre", "30 de noviembre"],
-      "correcta": 1
+      "opciones": ["13 de noviembre", "9 de noviembre", "10 de noviembre", "12 de noviembre"],
+      "correcta": 3
     },
     {
       "pregunta": "¿Cuál es una cualidad de Andrea?",
       "opciones": ["Estudiosa", "Divertida", "Cariñosa", "Todas las anteriores"],
       "correcta": 3
-    },
-    {
-      "pregunta": "¿En qué ciudad está el Hotel Moya?",
-      "opciones": ["Madrid", "Cáceres", "Navalmoral de la Mata", "Toledo"],
-      "correcta": 2
     },
     {
       "pregunta": "¿Qué significa el número 2007 para Andrea?",
@@ -74,6 +64,16 @@
       "pregunta": "¿Cuál es la pizza preferida de Andrea?",
       "opciones": ["Carbonara", "Hawaiana", "Bacon Crispy", "4 Quesos"],
       "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué deporte practica Andrea?",
+      "opciones": ["Fútbol", "Baloncesto", "Natación", "Tenis"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es el animal favorito de Andrea?",
+      "opciones": ["Gato", "Perro", "Conejo", "Pájaro"],
+      "correcta": 1
     }
   ]
 }

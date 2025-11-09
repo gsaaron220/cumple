@@ -5,7 +5,13 @@
       "aciertos": 1000,
       "total": 1000,
       "fecha": "2025-11-09T00:01:46.973Z"
+    },
+    {
+      "nombre": "luna",
+      "aciertos": 11,
+      "total": 15,
+      "fecha": "2025-11-09T00:44:20.519Z"
     }
   ],
-  "sha": "bc61bdae95d823799cf1728e6d8d1ecc4f372885"
+  "sha": "a442292c8814657e16e9a855f256c1e4779b824b"
 }

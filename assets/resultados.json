@@ -1,29 +1,6 @@
 {
   "jugadores": [
-    {
-      "nombre": "Pepe",
-      "aciertos": 2,
-      "total": 10,
-      "fecha": "2025-11-08T23:54:27.572Z"
-    },
-    {
-      "nombre": "a",
-      "aciertos": 3,
-      "total": 10,
-      "fecha": "2025-11-08T23:55:57.441Z"
-    },
-    {
-      "nombre": "Franco",
-      "aciertos": 6,
-      "total": 10,
-      "fecha": "2025-11-08T23:59:29.256Z"
-    },
-    {
-      "nombre": "a",
-      "aciertos": 7,
-      "total": 10,
-      "fecha": "2025-11-09T00:00:41.805Z"
-    }
+   
   ],
   "sha": "07d422f836fe6e460e34cdea5febb2d56e41e6d1"
 }

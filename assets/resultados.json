@@ -2,8 +2,8 @@
   "jugadores": [
     {
       "nombre": "Aaron",
-      "aciertos": 10,
-      "total": 10,
+      "aciertos": 100,
+      "total": 100,
       "fecha": "2025-11-09T00:01:46.973Z"
     }
   ],

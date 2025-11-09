@@ -7,7 +7,7 @@
     },
     {
       "pregunta": "¿Cuál es la pasión de Andrea?",
-      "opciones": ["Cocinar", "Medicina", "Pintar", "Deportes"],
+      "opciones": ["Cocinar", "Leer", "Pintar", "Deportes"],
       "correcta": 1
     },
     {
@@ -49,6 +49,31 @@
       "pregunta": "¿Qué significa el número 2007 para Andrea?",
       "opciones": ["Su año de nacimiento", "Su número favorito", "Un código secreto", "El año que empezó medicina"],
       "correcta": 0
+    },
+    {
+      "pregunta": "¿Cómo se llaman los hermanos de Andrea?",
+      "opciones": ["Álvaro y Aarón", "Aarón y Adrián", "Adrián y Marcos", "Iván y Aarón"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cómo se llaman los padres de Andrea?",
+      "opciones": ["Elisa y Adrián", "Elisa y Alberto", "Adrián y Elena", "Elena y Alberto"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Por qué letra termina el DNI de Andrea?",
+      "opciones": ["S", "M", "T", "L"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cómo se llama el novio de Andrea?",
+      "opciones": ["Mateo", "No tiene", "Carlos", "Adrián"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es la pizza preferida de Andrea?",
+      "opciones": ["Carbonara", "Hawaiana", "Bacon Crispy", "4 Quesos"],
+      "correcta": 2
     }
   ]
 }

@@ -5,7 +5,13 @@
       "aciertos": 1000,
       "total": 1000,
       "fecha": "2025-11-09T00:01:46.973Z"
+    },
+    {
+      "nombre": "Pepe",
+      "aciertos": 9,
+      "total": 15,
+      "fecha": "2025-11-09T00:15:58.618Z"
     }
   ],
-  "sha": "e50f780e9fbb691501964c29961588a519d05d27"
+  "sha": "390906cc9379eec8aa50bbd7e143bdf2246e7e64"
 }

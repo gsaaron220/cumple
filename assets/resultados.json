@@ -23,7 +23,13 @@
       "aciertos": 13,
       "total": 15,
       "fecha": "2025-11-09T09:52:58.864Z"
+    },
+    {
+      "nombre": "Javier",
+      "aciertos": 14,
+      "total": 15,
+      "fecha": "2025-11-12T19:44:09.617Z"
     }
   ],
-  "sha": "944766ddf4248613af74502cd34a5ed0411fe2fa"
+  "sha": "c343899b58746713f593d8da36055429d047579f"
 }
